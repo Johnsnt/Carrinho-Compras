@@ -1,4 +1,4 @@
-# Carrinho de Compras com React JS
+# Projeto carrinho de compras
 
 Um projeto de estudos usando a API do Mercado livre. Este projeto tem o intuito de melhorar minhas habilidades no React e explorar novas funcionalidades.
 
