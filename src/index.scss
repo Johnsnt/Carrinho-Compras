@@ -1,0 +1,27 @@
+:root {
+    --primay: #2a475e;
+    --secondary: #1b2838;
+    --tertiary: #171a21;
+    --text: #ffffff;
+    --title: #66c0f4;
+}
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: var(--primay);
+}
+
+.container {
+    max-width: 1248px;
+    margin: 0 auto;
+}
+
